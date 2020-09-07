@@ -6,6 +6,7 @@ namespace GitVisualStudioTest1
     {
         static void Main(string[] args)
         {
+            // This code is added in GitHub
             Console.WriteLine("Hello World!");
         }
     }
