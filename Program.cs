@@ -7,6 +7,8 @@ namespace GitVisualStudioTest1
         static void Main(string[] args)
         {
             // This code is added in GitHub
+
+            // Code added for Feature 1
             Console.WriteLine("Hello World!");
         }
     }
